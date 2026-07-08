@@ -3,3 +3,4 @@ Version: 1.0.0
 Date: 2026-07-08
   Changes:
     - Put circuit connector in proper circuit subgroup if Schall Circuit Group is installed.
+    - Put borehole pump in proper extraction subgroup.
