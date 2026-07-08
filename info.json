@@ -9,8 +9,6 @@
   "dependencies": [
     "base >= 2.0.77",
 
-    "khaoslib >= 1.5.0",
-
     "factorissimo-2-notnotmelon >= 3.11.19",
 
     "? SchallCircuitGroup >= 2.0.1"
